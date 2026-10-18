@@ -22,6 +22,8 @@ My approach: distinguish implemented features from validated results, document l
 
 **AI-assisted cybersecurity risk prioritization and endpoint-security research**
 
+**[Read the public AegisPulse / CYRP research case study](research/aegispulse-cyrp.md)** — architecture, internal research results, limitations and academic status.
+
 ![Research](https://img.shields.io/badge/Focus-Cybersecurity%20Research-2563eb?style=flat-square) ![Status](https://img.shields.io/badge/Status-Active%20Development-15803d?style=flat-square) ![Access](https://img.shields.io/badge/Repository-Private-64748b?style=flat-square)
 
 AegisPulse / CYRP explores how endpoint observations, vulnerability intelligence, contextual data, and machine-learning-assisted scoring can support the **relative prioritization of cybersecurity risks**.
@@ -35,12 +37,18 @@ AegisPulse / CYRP explores how endpoint observations, vulnerability intelligence
 
 **Academic recognition**
 
-- Award-recognized student scientific research project.
-- Participation in an international scientific conference.
+- Student research team reports a Second Prize (official certificate and event details pending public verification).
+- Co-author of a research manuscript prepared for **ATED 2026**; submission/acceptance/presentation/publication status is not verified.
 
-*The official award name, conference details, participation role, and publication status will be added when verified. Participation does not imply paper acceptance or publication.*
+*See the [research case study](research/aegispulse-cyrp.md) for precise evidence boundaries.*
 
 > **Research integrity:** CYRP's current AI risk score is an experimental, uncalibrated model output. It is **not** a verified probability of attack or exploitation. The source repository remains private while research and development continue; unpublished assets and security-sensitive details are not shared here.
+
+## Academic identity
+
+[ORCID: 0009-0009-9602-0332](https://orcid.org/0009-0009-9602-0332) · [AegisPulse / CYRP research overview](research/aegispulse-cyrp.md)
+
+*ORCID is recorded in the team's research manuscript; ownership should be confirmed before final publication.*
 
 ## Selected projects
 
